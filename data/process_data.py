@@ -138,7 +138,7 @@ def main():
         print('Please provide the filepath of the kaggle config dir and database to save the cleaned data '\
               'to as the third argument. \n\nExample: python process_data.py '\
               '/Users/username/kaggle '\
-              'DisasterResponse.db')
+              'kaggle_dataset.db')
 
 
 if __name__ == '__main__':
